@@ -1,1 +1,2 @@
 # multi-modular-banking-program
+hi I m 14 and I M trying to learn python numpy pandas and other things independently with 0$ only using Internet resources so I built this project to know how multi modular systems work it can have lots of issues and messy datas sorry for that thank you for checking my account:) I genuinely appreciate it
